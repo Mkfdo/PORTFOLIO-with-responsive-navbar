@@ -15,12 +15,13 @@ export const Navbar = () => {
             <Link to='/contact' className='desktopMenuListItem'>Contact Me</Link>
         </div>
         
-            
-                    
-                
-        
     </nav>
   );
 };
 
-export default Navbar
+export default Navbar    
+            
+                    
+                
+        
+    
