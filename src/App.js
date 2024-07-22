@@ -20,7 +20,7 @@ function App() {
         <Route path='/project' element={<Project />} />
         <Route path='/contact' element={<Contact />} />
         <Route path='*' element={<Nopage />} />
-
+        
       </Routes>
     </div>
   );
