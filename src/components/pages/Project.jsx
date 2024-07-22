@@ -11,7 +11,7 @@ const Project = () => {
             <div className='projectBar'>
                 <div className='projectBarText'>
                     <h3>01. Login & Signup Form using React</h3><br/>
-                    <Link rel='githublink' href="https://github.com/Mkfdo/sign-in-attempt-3">Github Login form</Link>
+                    <Link to="https://github.com/Mkfdo/sign-in-attempt-3">Github Login form CLICK Here</Link>
                     
                 </div>
             </div>
